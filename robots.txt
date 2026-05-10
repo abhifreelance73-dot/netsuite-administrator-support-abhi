@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abhifreelance73-dot.github.io/netsuite-administrator-support-abhi/sitemap.xml
